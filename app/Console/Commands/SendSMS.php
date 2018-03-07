@@ -56,7 +56,7 @@ Aproveite Já!
 mariasbonitas.com";
 
 
-        $smsGateway = new SmsGateway('marcelo.t80@gmail.com', 'marcelo');
+        $smsGateway = new SmsGateway('marcelo.t80@gmail.com', 'xxxxxxxx');
 
         $deviceID = 82264;
 
